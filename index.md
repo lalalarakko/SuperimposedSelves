@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## アイデンティティの内的多元性：哲学と経験科学の協同による実証研究の展開
+### 日本学術振興会：課題設定による先導的人文学・社会科学研究推進事業（領域開拓プログラム）
 
 You can use the [editor on GitHub](https://github.com/lalalarakko/SuperimposedSelves/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
