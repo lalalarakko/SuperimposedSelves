@@ -114,3 +114,13 @@ $.fn.elementRealHeight = function () {
   // })(window.document, window.history, window.location);
 
 return stack;})(stacks.stacks_in_10_page5);
+stacks.stacks_in_18_page5 = {};
+stacks.stacks_in_18_page5 = (function(stack) {
+var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
+	
+		$('#stacks_in_18_page5 > .container').parentsUntil('.stacks_top').css('overflow', 'visible');
+		$('.stacks_top').css({'overflow' : 'visible'});
+	
+});
+
+return stack;})(stacks.stacks_in_18_page5);

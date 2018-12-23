@@ -4912,3 +4912,84 @@ body {
     font-size: 24px; }
   h6 {
     font-size: 20px; } }
+
+
+
+
+
+
+	#stacks_in_30_page3 > .container {
+		max-width: 1140px;
+	}
+
+
+
+
+
+
+
+
+
+
+	#stacks_in_30_page3 > .container {
+		border-radius: 0px;
+	}
+
+	
+
+
+
+
+/* CSS for removing gutters if option is enabled. */
+#stacks_in_72_page3 .row.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+#stacks_in_72_page3 .row.no-gutters > [class^="col-"],
+#stacks_in_72_page3 .row.no-gutters > [class*=" col-"] {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+
+@media (max-width: 47.9em) {
+	/* iPhone */
+	#stacks_in_72_page3 .foundry_column {
+		margin-bottom: 20px;
+	}
+}
+
+@media (min-width: 48em) and (max-width: 61.9em) {
+	/* iPad */
+	#stacks_in_72_page3 .foundry_column {
+		margin-bottom: 40px;
+	}
+}
+
+@media (min-width: 62em) {
+	/* Desktop */
+	#stacks_in_72_page3 .foundry_column {
+		margin-bottom: 40px;
+	}
+}
+
+
+
+
+
+#stacks_in_70_page3 {
+	padding: 20px 0px 0px 0px;
+}
+
+#stacks_in_71_page3 {
+	font-size: 120%;
+}
+
+#stacks_in_51_page3 {
+	padding: 20px 0px 0px 0px;
+}
+
+#stacks_in_52_page3 {
+	font-size: 120%;
+}
