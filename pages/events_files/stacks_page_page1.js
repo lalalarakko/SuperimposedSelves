@@ -134,13 +134,3 @@ var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
 });
 
 return stack;})(stacks.stacks_in_12_page1);
-stacks.stacks_in_19_page1 = {};
-stacks.stacks_in_19_page1 = (function(stack) {
-var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
-	
-		$('#stacks_in_19_page1 > .container').parentsUntil('.stacks_top').css('overflow', 'visible');
-		$('.stacks_top').css({'overflow' : 'visible'});
-	
-});
-
-return stack;})(stacks.stacks_in_19_page1);

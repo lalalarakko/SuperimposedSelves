@@ -4957,19 +4957,6 @@ body {
 
 
 
-/* Color picker style settings */
-
-
-
-/* Option for removing base margin on paragraphs */
-#stacks_in_6_page1 p,
-#stacks_in_6_page1 {
-	
-	
-}
-
-
-
 
 
 
@@ -5009,71 +4996,3 @@ body {
 
 
 
-
-
-
-/* Color picker style settings */
-
-
-
-/* Option for removing base margin on paragraphs */
-#stacks_in_15_page1 p,
-#stacks_in_15_page1 {
-	
-	
-}
-
-
-
-
-
-
-	#stacks_in_19_page1 > .container {
-		max-width: 1140px;
-	}
-
-
-
-
-
-
-
-
-
-
-	#stacks_in_19_page1 > .container {
-		border-radius: 0px;
-	}
-
-	
-
-
-
-#stacks_in_20_page1 h3 {
-	
-	font-style: normal;
-
-	
-	
-	letter-spacing: 0px;
-	
-}
-
-
-
-
-
-
-
-
-
-/* Color picker style settings */
-
-
-
-/* Option for removing base margin on paragraphs */
-#stacks_in_22_page1 p,
-#stacks_in_22_page1 {
-	
-	
-}
