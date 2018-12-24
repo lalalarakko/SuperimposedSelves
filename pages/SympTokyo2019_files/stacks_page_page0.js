@@ -5,7 +5,7 @@ stacks.jQuery = jQuery.noConflict(true);
 stacks.stacks_in_2_page0 = {};
 stacks.stacks_in_2_page0 = (function(stack) {
 var jQuery = stacks.jQuery;var $ = jQuery;// Set Language for Document
-document.documentElement.lang = "ja";
+document.documentElement.lang = "en";
 
 $(document).ready(function(){
   
