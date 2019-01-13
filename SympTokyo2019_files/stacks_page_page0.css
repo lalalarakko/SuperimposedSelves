@@ -4973,7 +4973,7 @@ body {
 
 @media (min-width: 62em) {
 	#stacks_in_50_page0 .accordion_title {
-		font-size: 20px;
+		font-size: 18px;
 	}
 }
 
@@ -4985,7 +4985,7 @@ body {
 #stacks_in_50_page0 .accordion_title > a.accordion_toggle {
 	display: block;
 	
-	background: rgba(0, 51, 102, 1.00);
+	background: rgba(0, 102, 153, 1.00);
 	
 	color: rgba(255, 255, 255, 1.00);
 	padding: 10px 20px;
