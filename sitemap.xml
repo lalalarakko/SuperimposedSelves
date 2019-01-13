@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://lalalarakko.github.io/SuperimposedSelves/index.html</loc>
+		<lastmod>2019-01-13</lastmod>
 	</url>
 	<url>
-		<loc>https://lalalarakko.github.io/SuperimposedSelves/pages/about.html</loc>
+		<loc>https://lalalarakko.github.io/SuperimposedSelves/about.html</loc>
+		<lastmod>2019-01-13</lastmod>
 	</url>
 	<url>
-		<loc>https://lalalarakko.github.io/SuperimposedSelves/pages/members.html</loc>
+		<loc>https://lalalarakko.github.io/SuperimposedSelves/members.html</loc>
+		<lastmod>2019-01-13</lastmod>
 	</url>
 	<url>
-		<loc>https://lalalarakko.github.io/SuperimposedSelves/pages/events.html</loc>
+		<loc>https://lalalarakko.github.io/SuperimposedSelves/events.html</loc>
+		<lastmod>2019-01-13</lastmod>
 	</url>
 </urlset>
