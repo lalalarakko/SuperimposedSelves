@@ -403,7 +403,7 @@ h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   margin-bottom: 0.5rem;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   line-height: 1.2;
   color: #373a3c; }
 
@@ -444,24 +444,24 @@ h6 {
   font-size: 1rem; }
 
 .lead {
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 100; }
 
 .display-1 {
   font-size: 96px;
-  font-weight: 200; }
+  font-weight: 300; }
 
 .display-2 {
   font-size: 88px;
-  font-weight: 200; }
+  font-weight: 300; }
 
 .display-3 {
   font-size: 72px;
-  font-weight: 200; }
+  font-weight: 300; }
 
 .display-4 {
   font-size: 56px;
-  font-weight: 200; }
+  font-weight: 300; }
 
 hr {
   margin-top: 1rem;
@@ -4862,13 +4862,13 @@ body {
   h2 {
     font-size: 24px; }
   h3 {
-    font-size: 18px; }
+    font-size: 20px; }
   h4 {
-    font-size: 18px; }
+    font-size: 20px; }
   h5 {
-    font-size: 16px; }
+    font-size: 20px; }
   h6 {
-    font-size: 16px; } }
+    font-size: 18px; } }
 
 @media (min-width: 34em) and (max-width: 47.9em) {
   /* Tablet */
@@ -4877,13 +4877,13 @@ body {
   h2 {
     font-size: 24px; }
   h3 {
-    font-size: 18px; }
+    font-size: 20px; }
   h4 {
-    font-size: 18px; }
+    font-size: 20px; }
   h5 {
-    font-size: 16px; }
+    font-size: 20px; }
   h6 {
-    font-size: 16px; } }
+    font-size: 18px; } }
 
 @media (min-width: 48em) and (max-width: 61.9em) {
   /* Desktop */
