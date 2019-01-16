@@ -252,7 +252,7 @@ html {
   width: device-width; }
 
 html {
-  font-size: 23px;
+  font-size: 16px;
   -webkit-tap-highlight-color: transparent; }
 
 body {
@@ -442,7 +442,7 @@ h6 {
   font-size: 1rem; }
 
 .lead {
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 300; }
 
 .display-1 {
@@ -4856,43 +4856,43 @@ body {
 @media (max-width: 33.9em) {
   /* Mobile */
   h1 {
-    font-size: 32px; }
+    font-size: 20px; }
   h2 {
-    font-size: 32px; }
+    font-size: 20px; }
   h3 {
-    font-size: 28px; }
+    font-size: 18px; }
   h4 {
-    font-size: 26px; }
+    font-size: 16px; }
   h5 {
-    font-size: 22px; }
+    font-size: 16px; }
   h6 {
-    font-size: 18px; } }
+    font-size: 16px; } }
 
 @media (min-width: 34em) and (max-width: 47.9em) {
   /* Tablet */
   h1 {
-    font-size: 32px; }
+    font-size: 20px; }
   h2 {
-    font-size: 32px; }
+    font-size: 20px; }
   h3 {
-    font-size: 28px; }
+    font-size: 18px; }
   h4 {
-    font-size: 26px; }
+    font-size: 16px; }
   h5 {
-    font-size: 22px; }
+    font-size: 16px; }
   h6 {
-    font-size: 18px; } }
+    font-size: 16px; } }
 
 @media (min-width: 48em) and (max-width: 61.9em) {
   /* Desktop */
   h1 {
-    font-size: 34px; }
+    font-size: 26px; }
   h2 {
-    font-size: 32px; }
+    font-size: 26px; }
   h3 {
-    font-size: 32px; }
+    font-size: 26px; }
   h4 {
-    font-size: 28px; }
+    font-size: 24px; }
   h5 {
     font-size: 24px; }
   h6 {
@@ -4901,17 +4901,42 @@ body {
 @media (min-width: 62em) {
   /* Widescreen */
   h1 {
-    font-size: 34px; }
+    font-size: 26px; }
   h2 {
-    font-size: 32px; }
+    font-size: 26px; }
   h3 {
-    font-size: 32px; }
+    font-size: 26px; }
   h4 {
-    font-size: 28px; }
+    font-size: 24px; }
   h5 {
     font-size: 24px; }
   h6 {
     font-size: 20px; } }
+
+
+
+
+
+
+	#stacks_in_140_page0 > .container {
+		max-width: 1140px;
+	}
+
+
+
+
+
+
+
+
+
+
+	#stacks_in_140_page0 > .container {
+		border-radius: 0px;
+	}
+
+	
+
 
 
 

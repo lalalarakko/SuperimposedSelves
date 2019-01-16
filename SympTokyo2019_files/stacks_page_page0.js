@@ -114,6 +114,16 @@ $.fn.elementRealHeight = function () {
   // })(window.document, window.history, window.location);
 
 return stack;})(stacks.stacks_in_2_page0);
+stacks.stacks_in_140_page0 = {};
+stacks.stacks_in_140_page0 = (function(stack) {
+var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
+	
+		$('#stacks_in_140_page0 > .container').parentsUntil('.stacks_top').css('overflow', 'visible');
+		$('.stacks_top').css({'overflow' : 'visible'});
+	
+});
+
+return stack;})(stacks.stacks_in_140_page0);
 stacks.stacks_in_102_page0 = {};
 stacks.stacks_in_102_page0 = (function(stack) {
 var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
