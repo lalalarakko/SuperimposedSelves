@@ -254,7 +254,7 @@ html {
   width: device-width; }
 
 html {
-  font-size: 18px;
+  font-size: 16px;
   -webkit-tap-highlight-color: transparent; }
 
 body {
@@ -444,7 +444,7 @@ h6 {
   font-size: 1rem; }
 
 .lead {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 100; }
 
 .display-1 {
@@ -4858,32 +4858,32 @@ body {
 @media (max-width: 33.9em) {
   /* Mobile */
   h1 {
-    font-size: 26px; }
+    font-size: 22px; }
   h2 {
-    font-size: 24px; }
+    font-size: 20px; }
   h3 {
-    font-size: 20px; }
+    font-size: 18px; }
   h4 {
-    font-size: 20px; }
+    font-size: 16px; }
   h5 {
-    font-size: 20px; }
+    font-size: 16px; }
   h6 {
-    font-size: 18px; } }
+    font-size: 16px; } }
 
 @media (min-width: 34em) and (max-width: 47.9em) {
   /* Tablet */
   h1 {
-    font-size: 26px; }
+    font-size: 22px; }
   h2 {
-    font-size: 24px; }
+    font-size: 20px; }
   h3 {
-    font-size: 20px; }
+    font-size: 18px; }
   h4 {
-    font-size: 20px; }
+    font-size: 16px; }
   h5 {
-    font-size: 20px; }
+    font-size: 16px; }
   h6 {
-    font-size: 18px; } }
+    font-size: 16px; } }
 
 @media (min-width: 48em) and (max-width: 61.9em) {
   /* Desktop */
@@ -5014,6 +5014,10 @@ body {
 	padding: 0 !important;
 	margin: 0 !important;
 	overflow: hidden;
+}
+
+#stacks_in_145_page0 {
+	margin: 0px 20px 0px 20px;
 }
 
 
